@@ -1,0 +1,2 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=pedrofelipepierolaneyra-sketch_fullstack-javascript-project-98&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=pedrofelipepierolaneyra-sketch_fullstack-javascript-project-98)
+
