@@ -10,3 +10,5 @@
 [Asciinema - Brain Calc](https://asciinema.org/a/j1IV9Sa3G3T7HEl7)
 
 [Asciinema - Brain GCD](https://asciinema.org/a/wlEGNUjACqVSdjqK)
+
+[Asciinema - Brain Progression](https://asciinema.org/a/nK7bRaEpP0TG1Qt8)
